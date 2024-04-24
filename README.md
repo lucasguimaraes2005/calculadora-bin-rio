@@ -16,3 +16,5 @@ Você pode utilizar o decimal ou binario para definir qual numero quer calcular,
 ``go run main.go binario 1010``
 
 ``go run main.go decimal 20``
+
+Mmebros do grupo: Lucas Guimarães, Sérgio Silva, João Secchin, Renan Gonçalves
